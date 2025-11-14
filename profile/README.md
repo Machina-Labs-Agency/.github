@@ -28,24 +28,25 @@ Check it out 👉 [WhatsLink+ Extension](https://github.com/Machina-Labs-Agency/
 
 ---
 
-## Origin Story
+### 🏆 GitHub Trophies
+<div align="center">
+
+  <img src="https://github-profile-trophy-ahmed.vercel.app/?username=tuliosousapro&theme=onestar&no-bg=true&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+
+  <br><br>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tuliosousapro&layout=compact&langs_count=6&theme=highcontrast" height="125" /> &nbsp;
+  <img src="https://streak-stats.demolab.com/?user=a-hemeda&theme=highcontrast" height="125" />
+
+  <br><br>
+  
+  <!-- <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake Animation" /> -->
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mohamed20384/mohamed20384/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mohamed20384/mohamed20384/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mohamed20384/mohamed20384/output/pacman-contribution-graph.svg">
+  </picture>
 
 
----
-
-## Connect With Me
-<a href="https://instagram.com/tuliosousapro"><img src="https://img.shields.io/badge/Instagram-FF0069.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
-<a href="https://x.com/tuliosousapro"><img src="https://img.shields.io/badge/X-000000.svg?style=for-the-badge&logo=X&logoColor=white"></a>
-<a href="https://tiktok.com/tuliosousapro"><img src="https://img.shields.io/badge/TikTok-000000.svg?style=for-the-badge&logo=TikTok&logoColor=white"></a>
-<a href="https://tuliosousapro.substack.com"><img src="https://img.shields.io/badge/Substack-FF6719.svg?style=for-the-badge&logo=Substack&logoColor=white"></a>
-- **Website:** [tuliosousa.pro](https://tuliosousa.pro)
-
----
-
-<p align="center"><strong>Motto:</strong> <em>The impossible doesn't exist.</em></p>
-
----
-
-## Vibe
-
-*Minimal — with an aesthetic meme twist 😎*
+</div>
