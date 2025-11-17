@@ -30,13 +30,5 @@ Check it out 👉 [WhatsLink+ Extension](https://github.com/Machina-Labs-Agency/
 
 ### 🏆 GitHub Trophies
 <div align="center">
-
   <img src="https://github-profile-trophy-ahmed.vercel.app/?username=tuliosousapro&theme=onestar&no-bg=true&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
-
-  <br><br>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tuliosousapro&layout=compact&langs_count=6&theme=highcontrast" height="125" /> &nbsp;
-  <img src="https://streak-stats.demolab.com/?user=a-hemeda&theme=highcontrast" height="125" />
-
-  <br><br>
  </div>
